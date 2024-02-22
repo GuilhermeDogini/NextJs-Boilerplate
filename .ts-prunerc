@@ -1,0 +1,3 @@
+{
+  "ignore": "app|pages|stories|.storybook|types|.d.ts|stories.tsx|jest.config.ts|commitlint.config.ts|next.config.mjs|plopfile.mjs|next-seo.config.ts|tailwind.config.ts|Analytics/index.tsx|colors.stories.mdx"
+}
