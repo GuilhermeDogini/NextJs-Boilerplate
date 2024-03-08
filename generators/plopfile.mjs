@@ -22,7 +22,7 @@ const plopConfig = (/** @type {import('plop').NodePlopAPI} */ plop) => {
       },
       {
         type: 'add',
-        path: '../src/components/{{type}}/{{pascalCase name}}/stories.tsx',
+        path: '../src/components/{{type}}/{{pascalCase name}}/{{pascalCase name}}.stories.tsx',
         templateFile: 'templates/stories.tsx.hbs',
       },
       {

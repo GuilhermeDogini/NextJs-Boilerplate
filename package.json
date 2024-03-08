@@ -25,7 +25,7 @@
   "lint-staged": {
     "package.json": "pnpm sort:package",
     "src/**/*.{ts,tsx}": [
-      "pnpm lint --fix"
+      "pnpm lint "
     ]
   },
   "dependencies": {

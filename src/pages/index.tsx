@@ -1,7 +1,1 @@
-export default function Home() {
-  return (
-    <div>
-      <text>aaa</text>
-    </div>
-  )
-}
+export { default } from './Home'
